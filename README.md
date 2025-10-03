@@ -1,2 +1,37 @@
-# books-interview-test
-Job interview small test
+# Applications de recherche de livre
+Faire une application en utilisant la dernière version de Angular. L'application
+devra permettre à l'utilisateur de rechercher un livre par titre ou par auteur.
+Pour chaque livre l'affichage devra comporter les informations suivantes:
+- titre
+- auteur(s)
+- année de publication
+- langue
+- thumbnail 
+
+
+Pour récupérer les données vous utiliserez https://openlibrary.org/developers/api
+
+
+# Objectifs
+Le but de l'exercice est de créer un support pour discuter les choix techniques (UI/UX, structuration de la donnée…).
+Les bonnes pratiques (lint, tests, structure projet, validation json...) sont laissé libre.
+Si une fonctionnalité non demandée vous parait importante pour illustrer une de vos compétences n'hésitez pas à l'ajouter. 
+
+
+# Rendu 
+Le rendu se fera via un projet github et devra pouvoir être lancer en local. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
