@@ -1,5 +1,5 @@
 Faire une application en utilisant la dernière version d'Angular + Material. L'application
-devra comporter une page d'accueil et un page de recherche qui devra permettre à l'utilisateur de rechercher un livre par titre ou par auteur.
+devra comporter une page d'accueil et une page de recherche qui devra permettre à l'utilisateur de rechercher un livre par titre ou par auteur.
 Pour chaque livre l'affichage devra comporter les informations suivantes:
 - titre
 - auteur(s)
