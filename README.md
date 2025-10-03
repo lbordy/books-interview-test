@@ -7,25 +7,49 @@ Pour chaque livre l'affichage devra comporter les informations suivantes:
 - année de publication
 - langues disponibles
 - thumbnail 
-
-
-
-
 Pour récupérer les données vous utiliserez https://openlibrary.org/developers/api
 
 
-
-
 # Objectifs
-Le but de l'exercice est de créer un support pour discuter les choix techniques (UI/UX, structuration de la donnée…).
-Les bonnes pratiques (lint, tests, structure projet, validation json...) sont laissé libre.
+Le but de l'exercice est de créer un support pour discuter les choix techniques (UI/UX, structuration des données…).
+Les bonnes pratiques (lint, tests, structure projet, validation json...) sont laissées libres.
 Si une fonctionnalité non demandée vous parait importante pour illustrer une de vos compétences n'hésitez pas à l'ajouter. 
 
 
-
-
 # Rendu 
-Le rendu se fera via un projet github et devra pouvoir être lancer en local. 
+Le rendu se fera via un projet github et devra pouvoir être lancé en local. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
